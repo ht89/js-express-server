@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/hungtran2808/Test/_apis/build/status/ht89.js-express-server?branchName=main)](https://dev.azure.com/hungtran2808/Test/_build/latest?definitionId=1&branchName=main)
+
 ---
 page_type: sample
 languages:
